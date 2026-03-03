@@ -1,7 +1,7 @@
 # ClearView-Retail-Solutions_PowerBI-Dashboard
 Sales, Inventory &amp; Customer Analytics Dashboards
 
-Project Objective
+Project Objective:
 
 To develop an executive dashboard tracking revenue, stock levels, and customer performance.
 
